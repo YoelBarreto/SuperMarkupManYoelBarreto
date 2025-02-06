@@ -1,0 +1,4 @@
+repository "HTMLDragGame/HTMLDragGame@6872431313694@cloud"
+  path "/"
+    br "/main"
+    co "/main"
